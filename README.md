@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,I'm dbin
+
+A funing man,so 'dbinfun'.
+
+🏃I am looking for something that I am interested in.
 
 <!--
 **dbinfun/dbinfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
