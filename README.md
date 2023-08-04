@@ -1,8 +1,12 @@
 ### Hi there 👋,I'm dbin
 
-A funing man,so 'dbinfun'.
+A funing man, so 'dbinfun'.
 
 🏃I am looking for something that I am interested in.
+
+🌱 I’m currently learning `Java` and `GoLang`, I'm still a rookie.
+
+📫 My web site: [https://dbinfun.net](https://dbinfun.net) ,welcome to exchange links.
 
 <!--
 **dbinfun/dbinfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
